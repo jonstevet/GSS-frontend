@@ -2,7 +2,9 @@
 
 Desarrollo de proyecto para ejercicio de prueba en la empresa GSS, este frontend esta desarrollado en **Angular** 15, **TypeScript**, implementa MVC.
 
+![Front vista 1](assets/images/front1.png)
 
+![Front vista 2](assets/images/front2.png)
 
 # About
 
